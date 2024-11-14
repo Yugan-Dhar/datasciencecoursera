@@ -1,0 +1,7 @@
+subjectId	activity	TimeBodyAccelerometerMean-X	TimeBodyAccelerometerMean-Y	TimeBodyAccelerometerMean-Z
+1	WALKING	0.279	-0.016	-0.11
+1	STANDING	0.255	-0.021	-0.105
+2	WALKING	0.278	-0.019	-0.104
+2	STANDING	0.261	-0.027	-0.102
+3	WALKING	0.278	-0.017	-0.108
+3	STANDING	0.257	-0.022	-0.107
